@@ -1,0 +1,25 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "employeename": "Shirly",
+      "address": "Banglore",
+      "phone": 7708712271,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "employeename": "Roma",
+      "address": "Chennai",
+      "phone": 7709712271,
+      "country": "India"
+    },
+    {
+      "id": 3,
+      "employeename": "Anusha",
+      "address": "pune",
+      "phone": 9086677970,
+      "country": "India"
+    }
+  ]
+}

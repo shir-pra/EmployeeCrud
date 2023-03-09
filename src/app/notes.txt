@@ -1,0 +1,7 @@
+1. Installation of the jason server 
+2. Forms Modules and httpclientmodules to be implemented in module.ts 
+3. The base url to be given in services 
+4. Make the data Observable in order to pass to the components in service.ts 
+5. Exceptopn handling to be implemeted here for server side and client side errors
+6. The services to be passed in the component to be subscribed in order to get the response
+7. Through html the datas to be displayed with the use of ng form
